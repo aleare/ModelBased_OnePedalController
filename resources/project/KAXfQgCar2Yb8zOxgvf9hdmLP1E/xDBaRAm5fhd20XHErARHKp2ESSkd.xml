@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="harness.slx" Name="harness">
+    <Extension Value="c2f5eca7-2981-4aec-b3d2-a48126879286" Name="StartUpPrev"/>
+</Info>
