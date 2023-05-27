@@ -1,5 +1,7 @@
 function init_fn()
 clear all
+Simulink.sdi.setTableGrouping('Subsystems');
+Simulink.sdi.loadView('DefaultView.mldatx')
 assignin ('base', 'm', 1600) %kg
 assignin ('base', 'r', 0.30) %m
 assignin ('base', 'v0', 0) %km/h
