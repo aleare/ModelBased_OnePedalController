@@ -2,3 +2,7 @@
 ModelBasedLab2.zip
 MBSD_Lab 2.pdf
 slprj/
+ControllerArduino_ert_rtw/
+*.eep
+*.elf
+*.slxc
