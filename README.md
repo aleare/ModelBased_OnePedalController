@@ -3,7 +3,3 @@
 # ModelBased_OnePedalController
 
 This repository contains the code regarding the implementation of a One Pedal ECU, from Model Based SW Design of Politecnico di Torino A.A. 2022/23.
-
-## Appendix
-
-This repo is private
